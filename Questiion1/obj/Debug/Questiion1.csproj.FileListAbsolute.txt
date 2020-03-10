@@ -1,0 +1,12 @@
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\bin\Debug\Questiion1.exe.config
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\bin\Debug\Questiion1.exe
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\bin\Debug\Questiion1.pdb
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\obj\Debug\Questiion1.csprojResolveAssemblyReference.cache
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\obj\Debug\Questiion1.Form1.resources
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\obj\Debug\Questiion1.Properties.Resources.resources
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\obj\Debug\Questiion1.csproj.GenerateResource.Cache
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\obj\Debug\Questiion1.exe
+c:\users\xprime\documents\visual studio 2012\Projects\Questiion1\Questiion1\obj\Debug\Questiion1.pdb
+C:\Users\xprime\Pictures\Questiion1\Questiion1\bin\Debug\Questiion1.exe.config
+C:\Users\xprime\Pictures\Questiion1\Questiion1\obj\Debug\Questiion1.exe
+C:\Users\xprime\Pictures\Questiion1\Questiion1\obj\Debug\Questiion1.pdb
